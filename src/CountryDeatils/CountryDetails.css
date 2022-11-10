@@ -1,0 +1,48 @@
+.CountryDetails{
+    margin-top: 100px;
+
+}
+p{
+    margin-bottom: 5px;
+}
+.borderCountry {
+    display: inline-block;
+    background-color: var(--elements-color);
+    padding: 6px;
+    box-shadow: 0 0 4px 1px #0000001b;
+    border-radius: 2px;
+    width: 96px;
+    text-align: center;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 16px;
+}
+.childs {
+     
+    font-size: 14px;
+}
+.card{
+    min-height: 30px;
+    cursor: pointer;
+}
+.back-button 
+{
+    background-color: hsl(209deg 23% 22%);
+    border: none;
+    font-family: inherit;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    box-shadow: 0 0 7px #0000004b;
+    border-radius: 2px;
+   
+    gap: 8px;
+    padding: 7px 24px;
+    margin-bottom: 70px;
+    color: white;
+    cursor: pointer;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}

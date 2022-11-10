@@ -1,13 +1,10 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+/* <form ">
+<select id="filter">
+  <option value="All" id="option-all" class="region-option">All</option>
+  <option value="Africa" id="option-africa" class="region-option">Africa</option>
+  <option value="Americas" id="option-america" class="region-option">Americas</option>
+  <option value="Asia" id="option-asia" class="region-option">Asia</option>
+  <option value="Oceania" id="option-oceania" class="region-option">Oceania</option>
+  <option value="Europe" id="option-europe" class="region-option">Europe</option>
+</select>
+</form> */

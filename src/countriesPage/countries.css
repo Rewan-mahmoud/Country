@@ -1,0 +1,23 @@
+h4
+{
+    
+    padding: 20px 66px;
+    font-size: 18.72px;
+}
+.secondryBackground{
+    background-color: hsl(209deg, 23%, 22%);
+}
+.title-size{
+    font-size: 16px
+}
+p{
+    margin: 0;
+    
+}
+.description{
+    font-size: 13px ;
+}
+.fixedHeight{
+   min-height: 180px;
+   object-fit: cover;
+}
